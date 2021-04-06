@@ -19,8 +19,12 @@ This a big dump of all the things IT security we could find.
 ##### References
  * [Metasploit](https://github.com/rapid7/metasploit-framework/wiki)
  * [NMap Reference](https://github.com/4n0nh3r0/nmap#nmap-reference-guide)
+ * [NMap examples](https://linuxhint.com/30_nmap_examples/)
  * [Reverse shell cheat sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
  * [rmusser01's Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
+ * [Google search operators](https://www.ma-no.org/en/security/google-hacking-secrets-the-hidden-codes-of-google)
+ * [Vi Cheatsheet](https://www2.seas.gwu.edu/~mems/ece215/reference/vi-cheatsheet.pdf)
 ##### Other
  * [Kali tools list](https://tools.kali.org/tools-listing)
- * [The definitive super list for "Google Hacking"](GOOGLE)
+ * [Google Dorks](DORKS)
+ * [More Google Dorks](https://hackersonlineclub.com/google-hacking/)
