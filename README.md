@@ -1,6 +1,5 @@
-# IT Security mega dump
-![Hacker logo](/images/top.jpg)
-This a big dump of all the things IT security we could find. 
+# Hack All The Things
+![Hacker logo](/images/top.jpg) 
 
 ## Table of Contents
 ### Recon
