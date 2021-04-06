@@ -25,7 +25,14 @@ This a big dump of all the things IT security we could find.
  * [rmusser01's Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
  * [Google search operators](https://www.ma-no.org/en/security/google-hacking-secrets-the-hidden-codes-of-google)
  * [Vi Cheatsheet](https://www2.seas.gwu.edu/~mems/ece215/reference/vi-cheatsheet.pdf)
+ * [kobs0N's Cheatsheet](https://github.com/kobs0N/Hacking-Cheatsheet)
+ * [Subnet Cheatsheet](https://packetlife.net/media/library/15/IPv4_Subnetting.pdf)
 ##### Other
  * [Kali tools list](https://tools.kali.org/tools-listing)
  * [Google Dorks](DORKS)
  * [More Google Dorks](https://hackersonlineclub.com/google-hacking/)
+##### Practice sites
+ * [Hack the box](https://www.hackthebox.eu/)
+ * [Pentester Lab](https://pentesterlab.com/)
+ * [Hack this site](https://www.hackthissite.org/)
+ * [Hacker test](https://www.hackertest.net/)
