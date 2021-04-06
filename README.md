@@ -8,6 +8,7 @@ This a big dump of all the things IT security we could find.
  * [Shodan](https://www.shodan.io/)
  * [Aquatone](https://www.kitploit.com/2017/07/aquatone-tool-for-domain-flyovers.html)
    (https://github.com/michenriksen/aquatone)
+ * [AutoRecon](https://github.com/Tib3rius/AutoRecon)
 ##### Payloads
  * [Payloads all the things](https://github.com/swisskyrepo/PayloadsAllTheThings#payloads-all-the-things-)
  * [XSS payload](https://github.com/payloadbox/xss-payload-list#-cross-site-scripting--xss--vulnerability-payload-list-)
