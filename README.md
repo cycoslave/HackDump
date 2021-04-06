@@ -23,4 +23,4 @@ This a big dump of all the things IT security we could find.
  * [rmusser01's Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
 ##### Other
  * [Kali tools list](https://tools.kali.org/tools-listing)
- * [The definitive super list for "Google Hacking"](GOOGLE.md)
+ * [The definitive super list for "Google Hacking"](GOOGLE)
