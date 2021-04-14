@@ -20,6 +20,7 @@ How do you start probing a web application?
 - enumerate directories (dirb, dirbuster, autorecon, burp suite, gobuster)
     dirb http://10.0.0.176 > dirscan.txt
     dirb http://10.0.0.176 /usr/share/dirb/wordlists/big.txt > dirscan_long.txt
+    dirbuster -l /usr/share/wordlists/dirbuster/<pick one of the files>
 - try to enumerate users and maybe brute force passwords, but that takes time
 
 ## Wordpress
