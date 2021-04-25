@@ -28,6 +28,7 @@
  * [kobs0N's Cheatsheet](https://github.com/kobs0N/Hacking-Cheatsheet)
  * [Subnet Cheatsheet](https://packetlife.net/media/library/15/IPv4_Subnetting.pdf)
  * [PrivEsc Cheatsheet](https://gtfobins.github.io/)
+ * [one Liner Webservers](https://gist.github.com/willurd/5720255)
 ### Other
  * [Kali tools list](https://tools.kali.org/tools-listing)
  * [Google Dorks](DORKS)
