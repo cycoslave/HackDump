@@ -27,6 +27,7 @@
  * [Vi Cheatsheet](https://www2.seas.gwu.edu/~mems/ece215/reference/vi-cheatsheet.pdf)
  * [kobs0N's Cheatsheet](https://github.com/kobs0N/Hacking-Cheatsheet)
  * [Subnet Cheatsheet](https://packetlife.net/media/library/15/IPv4_Subnetting.pdf)
+ * [PrivEsc Cheatsheet](https://gtfobins.github.io/)
 ### Other
  * [Kali tools list](https://tools.kali.org/tools-listing)
  * [Google Dorks](DORKS)
