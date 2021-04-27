@@ -14,3 +14,6 @@ https://onlinedisassembler.com/odaweb/
 https://packetlife.net/media/library/23/common-ports.pdf
 https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html
 https://nullsec.us/top-1-000-tcp-and-udp-ports-nmap-default/
+
+find social media accounts
+https://github.com/sherlock-project/sherlock
