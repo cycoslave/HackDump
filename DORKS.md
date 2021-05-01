@@ -1,3 +1,4 @@
+```
 "index of" "siri"
 "index of" "plugins/wp-rocket"
 intitle:"index of" secrets.yml
@@ -4277,7 +4278,6 @@ yacht_search/yacht_view.php?pid=
 YZboard/view.php?id=
 zb/view.php?uid=
 zentrack/index.php?configFile=
-
 site:accounts..com/signin/ intitle:"index of" drupal intitle:"index of" admin inurl:login.cgi    Pages Containing Login Portals site:/joomla/administrator
  inurl:/login/index.jsp -site:hertz.*
  intitle:"Index of" inurl:wp-json/oembed    
@@ -4325,7 +4325,6 @@ inurl:/index.aspx/login
  site:drive.google.com /preview intext:movie inurl:flv | wmv | mp4 -pdf -edit -view
  intext:"class JConfig {" inurl:configuration.php
  "index of" "database.sql.zip"
-
 admin account info" filetype:log
 !Host=*.* intext:enc_UserPassword=* ext:pcf
 "# -FrontPage-" ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-" inurl:service.pwd
@@ -4634,9 +4633,6 @@ inurl:"typo3/index.php?u=" -demo
 inurl:"usysinfo?login=true"
 inurl:"utilities/TreeView.asp"
 inurl:"vsadmin/login" | inurl:"vsadmin/admin" inurl:.php|.asp
-
-Code:
-
 nurl:/admin/login.asp
 inurl:/cgi-bin/sqwebmail?noframes=1
 inurl:/Citrix/Nfuse17/
@@ -5099,3 +5095,4 @@ inurl:"ViewerFrame?Mode="
 intitle:"WJ-NT104 Main Page"
 inurl:netw_tcp.shtml
 intitle:"supervisioncam protocol"
+```

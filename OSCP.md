@@ -1,3 +1,8 @@
+Preparation guides
+https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/
+
+
+
 The following is an unofficial list of OSCP approved tools that were posted in the PWK/OSCP Prep Discord Server ( https://discord.gg/eG6Nt4x ) and found on the internet.
 Please note it is by no means a complete list of all tools. These are merely tools suggested by other users that are deemed “approved” for the exam.
 There will be some tools on here that were not suggested on the Discord server as well.
