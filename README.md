@@ -27,6 +27,8 @@
  * [Vi Cheatsheet](https://www2.seas.gwu.edu/~mems/ece215/reference/vi-cheatsheet.pdf)
  * [kobs0N's Cheatsheet](https://github.com/kobs0N/Hacking-Cheatsheet)
  * [Subnet Cheatsheet](https://packetlife.net/media/library/15/IPv4_Subnetting.pdf)
+ * [PrivEsc Cheatsheet](https://gtfobins.github.io/)
+ * [one Liner Webservers](https://gist.github.com/willurd/5720255)
 ### Other
  * [Kali tools list](https://tools.kali.org/tools-listing)
  * [Google Dorks](DORKS)
@@ -36,6 +38,7 @@
  * [Pentester Lab](https://pentesterlab.com/)
  * [Hack this site](https://www.hackthissite.org/)
  * [Hacker test](https://www.hackertest.net/)
+ * [Try Hack Me](https://tryhackme.com/)
 
 ## Tools
 - OWASP ZAP (does same a burp but totally free)
