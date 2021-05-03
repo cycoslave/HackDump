@@ -17,3 +17,6 @@ https://nullsec.us/top-1-000-tcp-and-udp-ports-nmap-default/
 
 find social media accounts
 https://github.com/sherlock-project/sherlock
+
+
+http://www.xss-payloads.com/
