@@ -20,3 +20,4 @@ https://github.com/sherlock-project/sherlock
 
 
 http://www.xss-payloads.com/
+https://www.exploit-db.com/
