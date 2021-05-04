@@ -26,3 +26,4 @@ https://gchq.github.io/CyberChef/
 
 https://portswigger.net/web-security
 https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/
+https://hashcat.net/wiki/doku.php?id=example_hashes
