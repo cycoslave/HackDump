@@ -22,3 +22,6 @@ https://github.com/sherlock-project/sherlock
 http://www.xss-payloads.com/
 https://www.exploit-db.com/
 https://gchq.github.io/CyberChef/
+
+
+https://portswigger.net/web-security
