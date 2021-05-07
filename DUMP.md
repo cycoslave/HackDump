@@ -63,3 +63,6 @@ https://github.com/411Hall/JAWS (A general enumeration script)
 https://gtfobins.github.io/gtfobins/systemctl/
 
 https://en.wikipedia.org/wiki/Alice_and_Bob
+
+https://github.com/Ganapati/RsaCtfTool
+https://github.com/ius/rsatool
