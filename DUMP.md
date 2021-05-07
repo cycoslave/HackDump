@@ -66,3 +66,7 @@ https://en.wikipedia.org/wiki/Alice_and_Bob
 
 https://github.com/Ganapati/RsaCtfTool
 https://github.com/ius/rsatool
+
+https://www.openwall.com/john/doc/RULES.shtml
+https://muirlandoracle.co.uk/2020/01/29/rsa-encryption/
+https://robertheaton.com/2014/03/27/how-does-https-actually-work/
