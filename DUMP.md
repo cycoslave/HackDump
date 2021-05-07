@@ -61,3 +61,5 @@ https://github.com/PowerShellEmpire/PowerTools/tree/master/PowerUp (A bit old bu
 https://github.com/411Hall/JAWS (A general enumeration script)
 
 https://gtfobins.github.io/gtfobins/systemctl/
+
+https://en.wikipedia.org/wiki/Alice_and_Bob
