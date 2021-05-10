@@ -72,3 +72,4 @@ https://muirlandoracle.co.uk/2020/01/29/rsa-encryption/
 https://robertheaton.com/2014/03/27/how-does-https-actually-work/
 
 https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
+https://gtfobins.github.io/
