@@ -79,3 +79,25 @@ https://gtfobins.github.io/
     https://payatu.com/guide-linux-privilege-escalation
 
 
+https://github.com/diego-treitos/linux-smart-enumeration
+https://github.com/rebootuser/LinEnum
+https://github.com/linted/linuxprivchecker
+https://github.com/AlessandroZ/ReRoot
+http://pentestmonkey.net/tools/audit/unix-privesc-check
+
+common backup location
+~, /, /tmp, /var/backups
+
+shell escape sequences - https://gtfobins.github.io/
+
+find suid/sgid files
+find / -type f -a \( -perm -u+s -o -perm -g+s \) -exec ls -l {} \; 2> /dev/null
+
+create root bash with suid
+cp /bin/bash /tmp/rootbash; chmod +s /tmp/root/bash
+
+privesc cheatcheat
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+
+https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1
