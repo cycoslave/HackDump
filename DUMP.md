@@ -73,3 +73,9 @@ https://robertheaton.com/2014/03/27/how-does-https-actually-work/
 
 https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
 https://gtfobins.github.io/
+    https://github.com/netbiosX/Checklists/blob/master/Linux-Privilege-Escalation.md
+    https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
+    https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html
+    https://payatu.com/guide-linux-privilege-escalation
+
+
