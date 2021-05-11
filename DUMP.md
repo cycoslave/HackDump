@@ -106,3 +106,9 @@ hydra reference - https://en.kali.tools/?p=220
 
 https://docs.python.org/3/tutorial/inputoutput.html
 https://www.tutorialsteacher.com/python/python-read-write-file
+
+
+Desktop eManuel: https://www.zaproxy.org/docs/desktop/ui/
+OWASP ZAP Forums: https://groups.google.com/forum/#!forum/zaproxy-users 
+ZAP in Ten: https://www.alldaydevops.com/zap-in-ten
+
