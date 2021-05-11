@@ -101,3 +101,5 @@ https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
 
 https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1
+
+hydra reference - https://en.kali.tools/?p=220
