@@ -29,6 +29,7 @@
  * [Subnet Cheatsheet](https://packetlife.net/media/library/15/IPv4_Subnetting.pdf)
  * [PrivEsc Cheatsheet](https://gtfobins.github.io/)
  * [one Liner Webservers](https://gist.github.com/willurd/5720255)
+ * [OSCP Ressources](https://hacklido.com/d/85-collection-of-resources-for-oscp)
 ### Other
  * [Kali tools list](https://tools.kali.org/tools-listing)
  * [Google Dorks](DORKS)
