@@ -112,3 +112,5 @@ Desktop eManuel: https://www.zaproxy.org/docs/desktop/ui/
 OWASP ZAP Forums: https://groups.google.com/forum/#!forum/zaproxy-users 
 ZAP in Ten: https://www.alldaydevops.com/zap-in-ten
 
+https://github.com/zaproxy/zap-extensions
+https://github.com/bugcrowd/HUNT
