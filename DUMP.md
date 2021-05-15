@@ -114,3 +114,7 @@ ZAP in Ten: https://www.alldaydevops.com/zap-in-ten
 
 https://github.com/zaproxy/zap-extensions
 https://github.com/bugcrowd/HUNT
+
+
+https://blog.nvisium.com/p263
+https://blog.nvisium.com/p255
