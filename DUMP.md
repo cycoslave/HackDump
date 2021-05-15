@@ -118,3 +118,4 @@ https://github.com/bugcrowd/HUNT
 
 https://blog.nvisium.com/p263
 https://blog.nvisium.com/p255
+https://github.com/VerSprite/flask-json-pickle
