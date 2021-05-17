@@ -27,3 +27,5 @@ How do you start probing a web application?
 - wpscan --help (shows all the example needed)
   not a bad idea to start by enumerating users
 - try to brute force password if possible 
+
+SSTI- https://github.com/epinna/tplmap/tree/master/burp_extension
