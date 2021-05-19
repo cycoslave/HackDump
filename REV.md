@@ -7,3 +7,6 @@ https://github.com/radareorg/radare2/blob/master/libr/core/cmd_print.c
 
 https://www.youtube.com/watch?v=hufgzz8nwNw
 https://security.humanativaspa.it/listinglover-add-pseudocode-to-ghidra-disassembly/
+
+WASM:
+https://github.com/pventuzelo/wasm_workshop
