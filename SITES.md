@@ -8,3 +8,13 @@
 ISAC
 https://threatconnect.com/
 https://otx.alienvault.com/
+
+https://www.virustotal.com/
+
+https://shattered.io/static/shattered.pdf
+https://www.garykessler.net/library/file_sigs.html
+https://hybrid-analysis.com/
+https://any.run/
+
+
+MS strings: Sysinternals
