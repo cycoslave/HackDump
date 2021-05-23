@@ -1,5 +1,5 @@
 # Hack All The Things
-![Hacker logo](/data/images/top.jpg) 
+![Hacker logo](/images/top.jpg) 
 
 ## Table of Contents
 ### Recon
