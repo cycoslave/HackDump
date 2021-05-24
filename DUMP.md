@@ -121,3 +121,7 @@ https://blog.nvisium.com/p255
 https://github.com/VerSprite/flask-json-pickle
 
 JWT: https://jwt.io/
+
+
+https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers
+https://github.com/s0md3v/Bolt/blob/master/db/hashes.json
