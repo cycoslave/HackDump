@@ -18,3 +18,5 @@ https://any.run/
 
 
 MS strings: Sysinternals
+
+https://regexr.com/
