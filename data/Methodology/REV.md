@@ -13,11 +13,13 @@ https://github.com/pventuzelo/wasm_workshop
 
 vmonkey DefinitelyALegitInvoice.doc
 
-volatility -f Win7-Jigsaw.raw imageinfo
-volatility -f Win7-Jigsaw.raw --profile=Win7SP1x64 pslist
-volatility -f Win7-Jigsaw.raw --profile=Win7SP1x64 psview
-volatility -f Win7-Jigsaw.raw --profile=Win7SP1x64 ldrmodules
-volatility -f Win7-Jigsaw.raw --profile=Win7SP1x64 dlllist -p <PID>
+volatility -f MEMORY_FILE.raw imageinfo
+volatility -f MEMORY_FILE.raw --profile=PROFILE pslist
+volatility -f MEMORY_FILE.raw --profile=PROFILE psview
+volatility -f MEMORY_FILE.raw --profile=PROFILE ldrmodules
+volatility -f MEMORY_FILE.raw --profile=PROFILE dlllist -p <PID>
+volatility -f MEMORY_FILE.raw --profile=PROFILE malfind -D <Directory>
+  
 
 peepdf demo_notsuspicious.pdf
 echo 'extract js > javascript-from-demo_notsuspicious.pdf' > extracted_javascript.txt
