@@ -15,6 +15,8 @@ vmonkey DefinitelyALegitInvoice.doc
 
 volatility -f Win7-Jigsaw.raw imageinfo
 volatility -f Win7-Jigsaw.raw --profile=Win7SP1x64 pslist
+volatility -f Win7-Jigsaw.raw --profile=Win7SP1x64 psview
+volatility -f Win7-Jigsaw.raw --profile=Win7SP1x64 ldrmodules
 volatility -f Win7-Jigsaw.raw --profile=Win7SP1x64 dlllist -p <PID>
 
 peepdf demo_notsuspicious.pdf
