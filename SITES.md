@@ -26,3 +26,5 @@ https://www.tutorialspoint.com/awk/awk_workflow.htm
 https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
 https://www.gnu.org/software/sed/manual/sed.html
 https://www.tecmint.com/linux-sed-command-tips-tricks/
+
+https://www.hackingarticles.in/exploiting-wildcard-for-privilege-escalation/
