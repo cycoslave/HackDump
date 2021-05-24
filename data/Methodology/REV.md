@@ -19,6 +19,7 @@ volatility -f MEMORY_FILE.raw --profile=PROFILE psview
 volatility -f MEMORY_FILE.raw --profile=PROFILE ldrmodules
 volatility -f MEMORY_FILE.raw --profile=PROFILE dlllist -p <PID>
 volatility -f MEMORY_FILE.raw --profile=PROFILE malfind -D <Directory>
+volatility -f MEMORY_FILE.raw --profile=PROFILE --pid=PID dlldump -D <Destination Directory>
   
 
 peepdf demo_notsuspicious.pdf
