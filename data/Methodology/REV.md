@@ -29,6 +29,7 @@ peepdf -s extracted_javascript.txt demo_notsuspicious.pdf
   
   
   https://www.youtube.com/watch?v=BMFCdAGxVN4
+  https://youtu.be/dB5852eAgpc
   
   https://fsec404.github.io/blog/Shanon-entropy/
   https://downloads.volatilityfoundation.org/releases/2.4/CheatSheet_v2.4.pdf
