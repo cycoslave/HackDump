@@ -20,3 +20,11 @@ volatility -f Win7-Jigsaw.raw --profile=Win7SP1x64 dlllist -p <PID>
 peepdf demo_notsuspicious.pdf
 echo 'extract js > javascript-from-demo_notsuspicious.pdf' > extracted_javascript.txt
 peepdf -s extracted_javascript.txt demo_notsuspicious.pdf
+
+  
+  
+  https://www.youtube.com/watch?v=BMFCdAGxVN4
+  
+  https://fsec404.github.io/blog/Shanon-entropy/
+  https://downloads.volatilityfoundation.org/releases/2.4/CheatSheet_v2.4.pdf
+  https://docs.remnux.org/
