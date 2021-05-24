@@ -20,3 +20,9 @@ https://any.run/
 MS strings: Sysinternals
 
 https://regexr.com/
+https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
+http://osr5doc.xinuos.com/en/OSUserG/_The_printf_statement.html
+https://www.tutorialspoint.com/awk/awk_workflow.htm
+https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
+https://www.gnu.org/software/sed/manual/sed.html
+https://www.tecmint.com/linux-sed-command-tips-tricks/
