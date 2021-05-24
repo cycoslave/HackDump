@@ -28,3 +28,7 @@ peepdf -s extracted_javascript.txt demo_notsuspicious.pdf
   https://fsec404.github.io/blog/Shanon-entropy/
   https://downloads.volatilityfoundation.org/releases/2.4/CheatSheet_v2.4.pdf
   https://docs.remnux.org/
+
+  
+  https://accessdata.com/product-download/ftk-imager-version-4-2-0
+  https://www.fireeye.com/services/freeware/redline.html
