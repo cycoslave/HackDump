@@ -18,9 +18,9 @@ How do you start probing a web application?
 - check locations in robot.txt
 - wafw00f http://10.0.0.176 > ./boxname/app_firewall.txt
 - enumerate directories (dirb, dirbuster, autorecon, burp suite, gobuster)
-    dirb http://10.0.0.176 > dirscan.txt
-    dirb http://10.0.0.176 /usr/share/dirb/wordlists/big.txt > dirscan_long.txt
-    dirbuster -l /usr/share/wordlists/dirbuster/<pick one of the files>
+ dirb http://10.0.0.176 > dirscan.txt
+ dirb http://10.0.0.176 /usr/share/dirb/wordlists/big.txt > dirscan_long.txt
+ dirbuster -l /usr/share/wordlists/dirbuster/<pick one of the files>
 - try to enumerate users and maybe brute force passwords, but that takes time
 
 ## Wordpress
@@ -33,3 +33,8 @@ How do you start probing a web application?
 hydra -l Elliot -P /usr/share/wordlists/rockyou.txt 10.10.202.57 http-post-form "/wp-login.php:log=^USER^&pwd=^PWD^:The password" -t 30
     
 SSTI- https://github.com/epinna/tplmap/tree/master/burp_extension
+
+    
+## SQL injection
+* https://suip.biz/?act=sqlmap  -- online sqlmap scanner
+* 
