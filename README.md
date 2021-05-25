@@ -1,45 +1,56 @@
 # Hack All The Things
-![Hacker logo](/images/top.jpg) 
+![Hacker logo](/data/images/top.jpg) 
 
 ## Table of Contents
+### [Training](/data/Training/README.md)
+* [OSCP](/data/Training/OSCP.md)
+* [Reading](/data/Training/READ.md)
+
+### [Methodologies]
+* [Recon](/data/Methodology/RECON.md)
+* [Enumeration](/data/Methodology/ENUM.md)
+* [Web](/data/Methodology/WEB.md)
+* [Reverse Engineering](/data/Methodology/REV.md)
+* [Reporting](/data/Methodology/REPORT.md)
+* [Capture The Flag](/data/Methodology/CTF.md)
+
+### [Information]
+* [Wifi](/data/Information/WIFI.md)
+* [Misc Websites](/data/Information/SITES.md)
+* [Capture the flag](/data/Information/CTF.md)
+
+### [References](/data/Reference/MAIN.md)
+* [Commands](/data/Reference/COMMANDS.md)
+* [Linux](/data/Reference/LINUX.md)
+* [Shells](/data/Rerefence/SHELL.md)
+
 ### Recon
- * [DataSploit](https://github.com/DataSploit/datasploit) 
+* [DataSploit](https://github.com/DataSploit/datasploit) 
    (https://dzone.com/articles/osint-with-datasploit)
- * [Shodan](https://www.shodan.io/)
- * [Aquatone](https://www.kitploit.com/2017/07/aquatone-tool-for-domain-flyovers.html)
+* [Shodan](https://www.shodan.io/)
+* [Aquatone](https://www.kitploit.com/2017/07/aquatone-tool-for-domain-flyovers.html)
    (https://github.com/michenriksen/aquatone)
- * [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+* [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+
 ### Payloads
- * [Payloads all the things](https://github.com/swisskyrepo/PayloadsAllTheThings#payloads-all-the-things-)
- * [XSS payload](https://github.com/payloadbox/xss-payload-list#-cross-site-scripting--xss--vulnerability-payload-list-)
- * [Command injection](https://github.com/payloadbox/command-injection-payload-list#command-injection-payload-list)
- * [SQL injection](https://github.com/payloadbox/sql-injection-payload-list#sql-injection-payload-list)
- * [Open redirect](https://github.com/payloadbox/open-redirect-payload-list#open-redirect-payload-list)
- * [XXE injection](https://github.com/payloadbox/xxe-injection-payload-list#xml-external-entity-xxe-injection-payload-list)
- * [RFI LFI](https://github.com/payloadbox/rfi-lfi-payload-list#rfilfi-payload-list)
-### References
- * [Metasploit](https://github.com/rapid7/metasploit-framework/wiki)
- * [NMap Reference](https://github.com/4n0nh3r0/nmap#nmap-reference-guide)
- * [NMap examples](https://linuxhint.com/30_nmap_examples/)
- * [Reverse shell cheat sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
- * [rmusser01's Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
- * [Google search operators](https://www.ma-no.org/en/security/google-hacking-secrets-the-hidden-codes-of-google)
- * [Vi Cheatsheet](https://www2.seas.gwu.edu/~mems/ece215/reference/vi-cheatsheet.pdf)
- * [kobs0N's Cheatsheet](https://github.com/kobs0N/Hacking-Cheatsheet)
- * [Subnet Cheatsheet](https://packetlife.net/media/library/15/IPv4_Subnetting.pdf)
- * [PrivEsc Cheatsheet](https://gtfobins.github.io/)
- * [one Liner Webservers](https://gist.github.com/willurd/5720255)
- * [OSCP Ressources](https://hacklido.com/d/85-collection-of-resources-for-oscp)
+* [Payloads all the things](https://github.com/swisskyrepo/PayloadsAllTheThings#payloads-all-the-things-)
+* [XSS payload](https://github.com/payloadbox/xss-payload-list#-cross-site-scripting--xss--vulnerability-payload-list-)
+* [Command injection](https://github.com/payloadbox/command-injection-payload-list#command-injection-payload-list)
+* [SQL injection](https://github.com/payloadbox/sql-injection-payload-list#sql-injection-payload-list)
+* [Open redirect](https://github.com/payloadbox/open-redirect-payload-list#open-redirect-payload-list)
+* [XXE injection](https://github.com/payloadbox/xxe-injection-payload-list#xml-external-entity-xxe-injection-payload-list)
+* [RFI LFI](https://github.com/payloadbox/rfi-lfi-payload-list#rfilfi-payload-list)
+
 ### Other
- * [Kali tools list](https://tools.kali.org/tools-listing)
- * [Google Dorks](DORKS)
- * [More Google Dorks](https://hackersonlineclub.com/google-hacking/)
-### Practice sites
- * [Hack the box](https://www.hackthebox.eu/)
- * [Pentester Lab](https://pentesterlab.com/)
- * [Hack this site](https://www.hackthissite.org/)
- * [Hacker test](https://www.hackertest.net/)
- * [Try Hack Me](https://tryhackme.com/)
+* [Kali tools list](https://tools.kali.org/tools-listing)
+* [Google Dorks](/data/Lists/DORKS.md)
+* [More Google Dorks](https://hackersonlineclub.com/google-hacking/)
 
 ## Tools
 - OWASP ZAP (does same a burp but totally free)
+
+### Tmux config
+* [My current tmux config](/data/config/tmux.conf)
+
+### Unsorted stuff
+* [List 1](/data/temp/DUMP.md)

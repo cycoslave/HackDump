@@ -125,3 +125,23 @@ JWT: https://jwt.io/
 
 https://www.unix-ninja.com/p/A_cheat-sheet_for_password_crackers
 https://github.com/s0md3v/Bolt/blob/master/db/hashes.json
+
+
+
+MS strings: Sysinternals
+https://shattered.io/static/shattered.pdf
+https://www.garykessler.net/library/file_sigs.html
+https://hybrid-analysis.com/
+https://any.run/
+https://regexr.com/
+https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
+http://osr5doc.xinuos.com/en/OSUserG/_The_printf_statement.html
+https://www.tutorialspoint.com/awk/awk_workflow.htm
+https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
+https://www.gnu.org/software/sed/manual/sed.html
+https://www.tecmint.com/linux-sed-command-tips-tricks/
+
+https://www.hackingarticles.in/exploiting-wildcard-for-privilege-escalation/
+
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ 
+https://www.hackingarticles.in/linux-privilege-escalation-using-suid-binaries/
