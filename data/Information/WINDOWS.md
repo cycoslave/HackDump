@@ -9,6 +9,7 @@
 * https://en.wikipedia.org/wiki/Client/Server_Runtime_Subsystem
 * https://en.wikipedia.org/wiki/Service_Control_Manager
 * https://en.wikipedia.org/wiki/Svchost.exe
+* https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc939862(v=technet.10)?redirectedfrom=MSDN
 
 ## More Reading
 * more on svchost here-> https://www.hexacorn.com/blog/2015/12/18/the-typographical-and-homomorphic-abuse-of-svchost-exe-and-other-popular-file-names/
