@@ -6,7 +6,7 @@
 * [OSCP](/data/Training/OSCP.md)
 * [Reading](/data/Training/READ.md)
 
-### [Methodologies]
+### [Methodologies](/data/Methodology/README.md)
 * [Recon](/data/Methodology/RECON.md)
 * [Enumeration](/data/Methodology/ENUM.md)
 * [Web](/data/Methodology/WEB.md)
@@ -14,12 +14,12 @@
 * [Reporting](/data/Methodology/REPORT.md)
 * [Capture The Flag](/data/Methodology/CTF.md)
 
-### [Information]
+### [Information](/data/Information/README.md)
 * [Wifi](/data/Information/WIFI.md)
 * [Misc Websites](/data/Information/SITES.md)
 * [Capture the flag](/data/Information/CTF.md)
 
-### [References](/data/Reference/MAIN.md)
+### [References](/data/Reference/README.md)
 * [Commands](/data/Reference/COMMANDS.md)
 * [Linux](/data/Reference/LINUX.md)
 * [Shells](/data/Rerefence/SHELL.md)
