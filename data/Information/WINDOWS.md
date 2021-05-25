@@ -3,3 +3,4 @@ https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/user-mo
 
 https://en.wikipedia.org/wiki/Architecture_of_Windows_NT
 https://en.wikipedia.org/wiki/Session_Manager_Subsystem
+https://en.wikipedia.org/wiki/Client/Server_Runtime_Subsystem
