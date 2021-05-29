@@ -145,3 +145,13 @@ https://www.hackingarticles.in/exploiting-wildcard-for-privilege-escalation/
 
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ 
 https://www.hackingarticles.in/linux-privilege-escalation-using-suid-binaries/
+
+
+JWT
+https://github.com/Sjord/jwtdemo/
+https://github.com/DiogoMRSilva/websitesVulnerableToSSTI
+https://github.com/lmammino/jwt-cracker
+https://authlab.digi.ninja/JWT_Cracking
+
+XXE
+https://github.com/jbarone/xxelab
