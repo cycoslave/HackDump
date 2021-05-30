@@ -163,3 +163,7 @@ https://docs.splunk.com/Documentation/UBA/5.0.4/GetDataIn/AddPowerShell
 https://www.fireeye.com/blog/threat-research/2016/02/greater_visibilityt.html
 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_logging_windows?view=powershell-7.1
 https://apps.nsa.gov/iaarchive/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm
+
+sysmon
+https://github.com/SwiftOnSecurity/sysmon-config
+https://github.com/ion-storm/sysmon-config/blob/develop/sysmonconfig-export.xml
