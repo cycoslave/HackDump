@@ -7,6 +7,15 @@
 * [Hack this site](https://www.hackthissite.org/)
 * [Hacker test](https://www.hackertest.net/)
 * [Traboda](https://traboda.com/)
+* https://cmdchallenge.com/
+* https://defendtheweb.net/dashboard
+* https://overthewire.org/warzone/
+* https://lab.pentestit.ru/
+* https://wiki.hamburg.ccc.de/ChaosVPN
+* http://smashthestack.org/
+* https://www.root-me.org/
+* https://overthewire.org/wargames/bandit/
+* https://hack.me/
 
 ## Youtube Channels
 [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
