@@ -16,6 +16,9 @@
 * https://www.root-me.org/
 * https://overthewire.org/wargames/bandit/
 * https://hack.me/
+* http://www.securitytube.net/
+* https://www.wechall.net/
+* https://opensecuritytraining.info/Welcome.html
 
 ## Youtube Channels
 [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
