@@ -176,6 +176,7 @@ https://devblogs.microsoft.com/scripting/use-powershell-to-parse-saved-event-log
 
 lock picking
 https://www.lockpickworld.com/pages/lockpicking-guides-types-of-locks-and-how-to-pick-them
+https://unitedlocksmith.net/blog/how-to-pick-locks-the-definitive-guide-to-lock-picking
 https://www.art-of-lockpicking.com/how-to-pick-a-lock-guide/
 https://www.art-of-lockpicking.com/single-pin-picking-skills/
 https://www.art-of-lockpicking.com/security-pins/
