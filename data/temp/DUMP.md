@@ -173,3 +173,6 @@ https://sushant747.gitbooks.io/total-oscp-guide/content/spawning_shells.html
 https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys
 https://lauraliparulo.altervista.org/most-common-linux-file-extensions/
 https://devblogs.microsoft.com/scripting/use-powershell-to-parse-saved-event-logs-for-errors/
+
+lock picking
+https://www.lockpickworld.com/pages/lockpicking-guides-types-of-locks-and-how-to-pick-them
