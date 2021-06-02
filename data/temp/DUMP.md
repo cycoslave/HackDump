@@ -167,3 +167,9 @@ https://apps.nsa.gov/iaarchive/library/reports/spotting-the-adversary-with-windo
 sysmon
 https://github.com/SwiftOnSecurity/sysmon-config
 https://github.com/ion-storm/sysmon-config/blob/develop/sysmonconfig-export.xml
+
+
+https://sushant747.gitbooks.io/total-oscp-guide/content/spawning_shells.html
+https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys
+https://lauraliparulo.altervista.org/most-common-linux-file-extensions/
+https://devblogs.microsoft.com/scripting/use-powershell-to-parse-saved-event-logs-for-errors/
