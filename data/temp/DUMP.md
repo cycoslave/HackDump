@@ -197,3 +197,10 @@ https://www.networkworld.com/article/3279724/comparing-files-and-directories-wit
 https://www.tecmint.com/linux-more-command-and-less-command-examples/#:~:text=Learn%20Linux%20%27less%27%20Command,using%20page%20up%2Fdown%20keys.
 https://ostechnix.com/the-difference-between-more-less-and-most-commands/
 https://airman604.medium.com/9-ways-to-backdoor-a-linux-box-f5f83bae5a3c
+
+
+https://hpbn.co/http1x/
+https://www.w3.org/TR/uri-clarification/
+http://www.tcpipguide.com/free/t_HTTPOverviewHistoryVersionsandStandards.htm
+http://httpd.apache.org/docs/2.2/ssl/ssl_intro.html
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
