@@ -39,3 +39,6 @@ https://www.megabeets.net/a-journey-into-radare-2-part-1/
 
 https://redteam.guide/docs/
 https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/
+
+sample pcap files
+https://wiki.wireshark.org/SampleCaptures
