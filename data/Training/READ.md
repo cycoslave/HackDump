@@ -9,3 +9,5 @@ history
 https://en.wikipedia.org/wiki/John_Draper
 https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security
 http://phrack.org/issues/7/3.html
+
+https://book.ethicalhackinghtb.xyz/
