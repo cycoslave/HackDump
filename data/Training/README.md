@@ -3,10 +3,11 @@
 * [TryHackMe](https://tryhackme.com/)
 * [HackTheBox](http://hackthebox.eu/)
 * [PortSwigger Academy](https://portswigger.net/web-security/dashboard)
-* [VulnHub](https://www.vulnhub.com/)
 * [Pentester Lab](https://pentesterlab.com/)
 * [Hack this site](https://www.hackthissite.org/)
 * [Hacker test](https://www.hackertest.net/)
+* [Hack Me](https://hack.me/)
+* [Hacker 101](https://www.hacker101.com/)
 * [Traboda](https://traboda.com/)
 * https://cmdchallenge.com/
 * https://defendtheweb.net/dashboard
@@ -16,11 +17,16 @@
 * http://smashthestack.org/
 * https://www.root-me.org/
 * https://overthewire.org/wargames/bandit/
-* https://hack.me/
 * http://www.securitytube.net/
 * https://www.wechall.net/
 * https://opensecuritytraining.info/Welcome.html
-* https://www.hacker101.com/
+
+## Free courses
+* [INE's Penetration testing student (PTS)](ine.com) - Prerequirements for eJPT.
+
+## Resources
+### Virtual machine images
+* [VulnHub](https://www.vulnhub.com/)
 
 ## Youtube Channels
 [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
