@@ -8,9 +8,9 @@
 * [Hacker test](https://www.hackertest.net/)
 * [Hack Me](https://hack.me/)
 * [Hacker 101](https://www.hacker101.com/)
+* [Defend The Web](https://defendtheweb.net/dashboard)
 * [Traboda](https://traboda.com/)
 * https://cmdchallenge.com/
-* https://defendtheweb.net/dashboard
 * https://overthewire.org/warzone/
 * https://lab.pentestit.ru/
 * https://wiki.hamburg.ccc.de/ChaosVPN
