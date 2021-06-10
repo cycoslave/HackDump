@@ -204,3 +204,11 @@ https://www.w3.org/TR/uri-clarification/
 http://www.tcpipguide.com/free/t_HTTPOverviewHistoryVersionsandStandards.htm
 http://httpd.apache.org/docs/2.2/ssl/ssl_intro.html
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+
+
+AWS S3 Bucket
+https://docs.aws.amazon.com/cli/latest/reference/configure/
+https://docs.aws.amazon.com/general/latest/gr/root-vs-iam.html
+https://docs.aws.amazon.com/cli/latest/userguide/cli-services-dynamodb.html
+
+enum nfs share -> https://ethicalhackingguru.com/how-to-enumerate-and-exploit-nfs-shares/
