@@ -38,3 +38,8 @@ SSTI- https://github.com/epinna/tplmap/tree/master/burp_extension
 ## SQL injection
 * https://suip.biz/?act=sqlmap  -- online sqlmap scanner
 * 
+
+ 
+ 
+ 
+ find / -type f \( -perm -4000 -o -perm -2000 \) -exec ls -l {} \;
