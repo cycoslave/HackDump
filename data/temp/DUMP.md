@@ -217,3 +217,13 @@ thispersondoesnotexist.com
 to create fake profiles for osint
 
 ahmia.fi - dark web search
+
+https://www.tracelabs.org/initiatives/search-party - ctf for missing ppl
+
+OWASP cheatsheet -0 https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Input_Validation_Cheat_Sheet.md
+
+blog - https://brutelogic.com.br/blog/xss101/
+
+bounty hunting - https://knoxss.me/
+
+JS Beautifier - https://beautifier.io/
