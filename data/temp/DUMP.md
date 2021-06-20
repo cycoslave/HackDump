@@ -212,3 +212,8 @@ https://docs.aws.amazon.com/general/latest/gr/root-vs-iam.html
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-dynamodb.html
 
 enum nfs share -> https://ethicalhackingguru.com/how-to-enumerate-and-exploit-nfs-shares/
+
+thispersondoesnotexist.com
+to create fake profiles for osint
+
+ahmia.fi - dark web search
