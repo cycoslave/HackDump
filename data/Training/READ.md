@@ -11,3 +11,5 @@ https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security
 http://phrack.org/issues/7/3.html
 
 https://book.ethicalhackinghtb.xyz/
+
+https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html
