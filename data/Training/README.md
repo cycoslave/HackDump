@@ -5,6 +5,7 @@
 * [PortSwigger Academy](https://portswigger.net/web-security/dashboard)
 * [Pentester Lab](https://pentesterlab.com/)
 * [TCM Security](https://academy.tcm-sec.com/)
+* [Proving Grounds](https://www.offensive-security.com/labs/individual/)
 * [Hack this site](https://www.hackthissite.org/)
 * [Hacker test](https://www.hackertest.net/)
 * [Hack Me](https://hack.me/)
