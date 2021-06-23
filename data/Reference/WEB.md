@@ -5,3 +5,5 @@
 
 
 https://www.samba.org/samba/docs/current/man-html/smbget.1.html
+
+https://github.com/dafthack/CloudPentestCheatsheets
