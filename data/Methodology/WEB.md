@@ -43,3 +43,7 @@ SSTI- https://github.com/epinna/tplmap/tree/master/burp_extension
  
  
  find / -type f \( -perm -4000 -o -perm -2000 \) -exec ls -l {} \;
+ 
+ upgrading shell
+ https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+ 
