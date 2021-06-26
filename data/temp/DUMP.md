@@ -227,3 +227,6 @@ blog - https://brutelogic.com.br/blog/xss101/
 bounty hunting - https://knoxss.me/
 
 JS Beautifier - https://beautifier.io/
+
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+http://wuvel.net/cheat-sheet/
