@@ -1040,3 +1040,7 @@ https://github.com/gwen001/bb-reports-templates
 2. Linux Commands Cheat Sheet = [https://highon.coffee/blog/linux-commands-cheat-sheet/](https://highon.coffee/blog/linux-commands-cheat-sheet/)
 
 3. Nmap Cheat Sheet = [https://medium.com/@infosecsanyam/nmap-cheat-sheet-nmap-scanning-types-scanning-commands-nse-scripts-868a7bd7f692](https://medium.com/@infosecsanyam/nmap-cheat-sheet-nmap-scanning-types-scanning-commands-nse-scripts-868a7bd7f692)
+
+
+
+https://www.facebook.com/1390284201196302/posts/guides-1-ebrahim-hegazy-httpsecurity4arabscom20150403how-to-start-in-webapps-sec/2365938886964157/
