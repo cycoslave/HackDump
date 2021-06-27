@@ -1,5 +1,3 @@
-J'espère que ça pourra vous aider!
-
 Outils :
 - Listes d'outils OSINT :
 https://osintframework.com/
@@ -29,19 +27,6 @@ https://tails.boum.org/ (Tails - OS "amnésique", lien présentement down)
 https://www.kali.org/ (Kali Linux - OS de "hacking" contenant certains outils OSINT)
 https://www.tracelabs.org/initiatives/osint-vm (Repackage de Kali par TraceLabs pour l'OSINT)
 
-4
-
-3
-PhenixCorp
- pinned 
-a message
- to this channel. See all 
-pinned messages
-.
- — Today at 5:18 PM
-
-3
-[5:18 PM] getsuyobi_blues:
 Articles / Documents :
 - Comment créer un compte marionnette efficace :
 https://jakecreps.com/sock-puppets/ (Le blog de Jake Creps contient une foule d'articles sur l'OSINT!)
