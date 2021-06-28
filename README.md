@@ -2,9 +2,16 @@
 ![Hacker logo](/data/images/top.jpg) 
 
 ## Table of Contents
-### [Training](/data/Training/README.md)
-* [OSCP](/data/Training/OSCP.md)
-* [Reading](/data/Training/READ.md)
+* [Training](/data/Training/README.md)
+* [Information](/data/Information/README.md)
+* [Tools](/data/Tools/README.md)
+
+### Lists
+- [Google Dorks](/data/Lists/DORKS.md)
+
+### CTFs
+* [PicoCTF](https://picoctf.org/)
+* [AciCTF](https://www.acictf.com/)
 
 ### [Methodologies](/data/Methodology/README.md)
 * [Recon](/data/Methodology/RECON.md)

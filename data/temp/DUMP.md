@@ -230,3 +230,9 @@ JS Beautifier - https://beautifier.io/
 
 https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 http://wuvel.net/cheat-sheet/
+
+
+
+## Resources
+### Virtual machine images
+* [VulnHub](https://www.vulnhub.com/)
