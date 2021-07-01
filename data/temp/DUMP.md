@@ -236,3 +236,8 @@ http://wuvel.net/cheat-sheet/
 ## Resources
 ### Virtual machine images
 * [VulnHub](https://www.vulnhub.com/)
+
+
+https://github.com/phlmox/public-reports/blob/main/hackerone-one-million-reports
+
+https://bugbountyhunter.com/
