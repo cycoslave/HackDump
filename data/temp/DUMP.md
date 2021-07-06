@@ -241,3 +241,5 @@ http://wuvel.net/cheat-sheet/
 https://github.com/phlmox/public-reports/blob/main/hackerone-one-million-reports
 
 https://bugbountyhunter.com/
+
+https://www.securecodewarrior.com/
