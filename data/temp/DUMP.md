@@ -244,3 +244,5 @@ https://bugbountyhunter.com/
 
 https://www.securecodewarrior.com/
 https://thexssrat.podia.com/dashboard
+
+https://github.com/KaliHash/Practical_Ethical_Hacking_Mindmap
