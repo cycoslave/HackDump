@@ -249,3 +249,5 @@ https://github.com/KaliHash/Practical_Ethical_Hacking_Mindmap
 
 
 https://www.kitploit.com/2021/07/gitdump-pentesting-tool-that-dumps.html
+
+https://sploitus.com/
