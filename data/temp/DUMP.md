@@ -251,3 +251,7 @@ https://github.com/KaliHash/Practical_Ethical_Hacking_Mindmap
 https://www.kitploit.com/2021/07/gitdump-pentesting-tool-that-dumps.html
 
 https://sploitus.com/
+
+https://cyberpolygon.com/materials/security-of-json-web-tokens-jwt/
+https://book.hacktricks.xyz/pentesting-web/hacking-jwt-json-web-tokens
+https://www.nccgroup.com/ae/about-us/newsroom-and-events/blogs/2019/january/jwt-attack-walk-through/
