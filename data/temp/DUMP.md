@@ -287,3 +287,11 @@ https://www.youtube.com/c/SpinTheHack
 https://www.stokfredrik.com/bugbountytraining
 https://www.youtube.com/c/HackerSploit
 https://www.levelupinfosec.com/freestuff
+https://wakelet.com/wake/ZoDim7iESNHwLFr4DJeOC
+https://cacr.uwaterloo.ca/hac/
+https://vx-underground.org/
+https://www.youtube.com/c/CyberBruhArmy
+https://www.hoppersroppers.org/
+https://frsecure.com/cissp-mentor-program/
+https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/
+https://www.youtube.com/c/CyberBlackHole
