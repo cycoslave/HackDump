@@ -255,3 +255,35 @@ https://sploitus.com/
 https://cyberpolygon.com/materials/security-of-json-web-tokens-jwt/
 https://book.hacktricks.xyz/pentesting-web/hacking-jwt-json-web-tokens
 https://www.nccgroup.com/ae/about-us/newsroom-and-events/blogs/2019/january/jwt-attack-walk-through/
+
+#OSINT tools:
+whois http://whoxy.com
+company http://opencorporates.com
+person http://truepeoplesearch.com
+twitter http://tweetbeaver.com
+exif data http://exif.regex.info/exif.cgi
+archive http://archive.org
+mind map http://xmind.net
+translator http://babelfish.com
+
+firewall tutorial
+https://www.youtube.com/playlist?list=PL8PnAf11sThUyzc2FUvcvOk1ksfWvkKsJ
+
+webapp pentesting
+https://www.youtube.com/playlist?list=PL8PnAf11sThVqeqptNmF9vSZ9tRvaeQtX
+
+https://www.fuzzysecurity.com/
+https://adsecurity.org/
+https://book.hacktricks.xyz/
+https://medium.com/the-innovation/best-youtube-channels-to-learn-cybersecurity-in-2020-b1c445923acf
+https://www.hackingarticles.in/
+https://agdcservices.com/blog/resources-for-learning-malware-analysis/
+https://start.me/p/q6mw4Q/forensics
+https://soc-class.com/pres/
+https://soc-class.com/res/
+https://freetraining.dfirdiva.com/
+https://linkshare.olafhartong.nl/
+https://www.youtube.com/c/SpinTheHack
+https://www.stokfredrik.com/bugbountytraining
+https://www.youtube.com/c/HackerSploit
+https://www.levelupinfosec.com/freestuff
