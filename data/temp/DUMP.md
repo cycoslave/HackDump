@@ -295,3 +295,15 @@ https://www.hoppersroppers.org/
 https://frsecure.com/cissp-mentor-program/
 https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/
 https://www.youtube.com/c/CyberBlackHole
+
+https://replit.com/
+https://github.com/obheda12/GitDorker
+https://github.com/projectdiscovery/interactsh
+https://github.com/six2dez/reconftw
+https://github.com/Edu4rdSHL/unimap
+https://portswigger.net/web-security/cross-site-scripting
+https://github.com/yogisec/VulnerableSAMLApp
+https://github.com/Sjord/jwtdemo
+https://github.com/david3107/graphql-security-labs
+https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications
+https://github.com/Audi-1/sqli-labs
