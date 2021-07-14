@@ -3,6 +3,8 @@
 * https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
 * https://github.com/payloadbox/sql-injection-payload-list
 
+## XSS
+- [XXS Evasion CheatSeet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
 
 https://www.samba.org/samba/docs/current/man-html/smbget.1.html
 
