@@ -307,3 +307,13 @@ https://github.com/Sjord/jwtdemo
 https://github.com/david3107/graphql-security-labs
 https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications
 https://github.com/Audi-1/sqli-labs
+
+
+https://xsshunter.com/features
+https://www.0hak.com/
+https://nmap.org/book/osdetect.html
+https://lcamtuf.coredump.cx/p0f3/
+https://www.crunchbase.com/
+https://dnsdumpster.com/
+https://drive.google.com/file/d/15nzQK_FprTAbfwrFBAlhCsXJo-CWrOww/view
+https://infosecwriteups.com/idor-on-api-endpoints-e08c740e87a2
