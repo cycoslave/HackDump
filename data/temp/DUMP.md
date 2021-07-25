@@ -319,3 +319,5 @@ https://drive.google.com/file/d/15nzQK_FprTAbfwrFBAlhCsXJo-CWrOww/view
 https://infosecwriteups.com/idor-on-api-endpoints-e08c740e87a2
 
 https://www.blackhillsinfosec.com/
+
+useragentstring.com
