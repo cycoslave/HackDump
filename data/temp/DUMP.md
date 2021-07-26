@@ -321,3 +321,24 @@ https://infosecwriteups.com/idor-on-api-endpoints-e08c740e87a2
 https://www.blackhillsinfosec.com/
 
 useragentstring.com
+
+https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook-dp-B005LVQA9S/dp/B005LVQA9S/ref=mt_other?_encoding=UTF8&me=&qid=
+https://owasp.org/www-community/attacks/xss/
+https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/1597491764/ref=sr_1_1?ie=UTF8&qid=1302083660&sr=8-1
+https://developers.google.com/custom-search/docs/xml_results
+https://www.exploit-db.com/google-hacking-database
+https://www.valuelabs.com/
+https://blog.0xffff.info/2021/06/23/winning-the-race-signals-symlinks-and-toc-tou/
+https://insomniasec.com/blog/airtag-hacking
+https://github.com/scythe-io/community-threats/tree/master/CompoundActions/T1003.002%20-%20OS%20Credential%20Dumping%20-%20SAM
+https://www.romainthomas.fr/post/21-07-pokemongo-anti-frida-jailbreak-bypass/
+https://medium.com/appsflyer/nginx-may-be-protecting-your-applications-from-traversal-attacks-without-you-even-knowing-b08f882fd43d
+https://blog.0xffff.info/2021/07/24/a-guide-to-non-conventional-waf-ids-evasion-techniques/
+https://securib.ee/newsletter/
+
+https://www.youtube.com/watch?v=mjrGOuFc1Kw
+https://www.youtube.com/watch?v=hZ0xSRswN8M
+https://www.youtube.com/watch?v=5vYhTik8_yU
+https://www.youtube.com/watch?v=XkCfySN7US0
+
+https://info.varonis.com/en/thank-you/intro-to-ransomware-with-troy-hunt-free-video-course?submissionGuid=b717c86b-6e3d-44e6-be6a-8c0487f64a7e
