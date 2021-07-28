@@ -358,3 +358,12 @@ https://ss64.com/nt/
 https://blog.brainasoft.com/all-internal-commands-of-cmd/
 https://tldp.org/LDP/abs/html/comparison-ops.html
 
+https://pimeyes.com/en
+https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=sr_1_10?ie=UTF8&qid=1361544887&sr=8-10&keywords=python+programming
+https://docs.python.org/3/library/index.html
+https://docs.python.org/3/tutorial/index.html
+https://nostarch.com/black-hat-python2E
+https://docs.python.org/3/library/http.client.html
+https://docs.python.org/3/library/platform.html
+https://docs.python.org/3.3/library/os.html
+https://docs.python.org/3/library/socket.html
