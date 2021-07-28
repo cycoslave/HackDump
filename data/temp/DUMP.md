@@ -342,3 +342,19 @@ https://www.youtube.com/watch?v=5vYhTik8_yU
 https://www.youtube.com/watch?v=XkCfySN7US0
 
 https://info.varonis.com/en/thank-you/intro-to-ransomware-with-troy-hunt-free-video-course?submissionGuid=b717c86b-6e3d-44e6-be6a-8c0487f64a7e
+
+https://www.w3schools.com/sql/sql_intro.asp
+https://howsecureismypassword.net/
+https://www.keepassx.org/
+https://keepass.info/
+http://web.archive.org/web/20150715001201/http:/www.offensivecomputing.net/?q=taxonomy/term/1
+https://www.amazon.com/Hacking-Exposed-Malware-amp-Rootkits/dp/0071823077/ref=sr_1_3?s=books&ie=UTF8&qid=1423220013&sr=1-3
+https://wiki.skullsecurity.org/index.php/Main_Page
+https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+https://ss64.com/nt/if.html
+https://ss64.com/nt/for.html
+https://ss64.com/nt/else.html
+https://ss64.com/nt/
+https://blog.brainasoft.com/all-internal-commands-of-cmd/
+https://tldp.org/LDP/abs/html/comparison-ops.html
+
