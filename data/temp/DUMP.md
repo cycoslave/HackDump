@@ -367,3 +367,14 @@ https://docs.python.org/3/library/http.client.html
 https://docs.python.org/3/library/platform.html
 https://docs.python.org/3.3/library/os.html
 https://docs.python.org/3/library/socket.html
+
+https://book.hacktricks.xyz/pentesting-web/hacking-jwt-json-web-tokens#new-public-key-inside-the-header
+https://nvd.nist.gov/vuln/detail/CVE-2018-0114
+https://github.com/Frichetten/CVE-2019-5736-PoC
+https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html
+https://book.hacktricks.xyz/linux-unix/privilege-escalation/docker-breakout#runc-exploit-cve-2019-5736
+https://gist.github.com/ygotthilf/baa58da5c3dd1f69fae9
+https://kurtikleiton.medium.com/json-web-token-exploitation-for-red-team-580eea1fe46a
+https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a
+https://www.monkey.org/~dugsong/dsniff/
+https://wiki.owasp.org/index.php/Testing_Checklist
