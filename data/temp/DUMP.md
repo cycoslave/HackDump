@@ -378,3 +378,13 @@ https://kurtikleiton.medium.com/json-web-token-exploitation-for-red-team-580eea1
 https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a
 https://www.monkey.org/~dugsong/dsniff/
 https://wiki.owasp.org/index.php/Testing_Checklist
+
+https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-storyhttps://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
+https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network
+https://haxolot.com/posts/2021/moodle_pre_auth_shibboleth_rce_part1/
+https://malwareunicorn.org/workshops/peinjection.html#0
+https://blog.sonarsource.com/zimbra-webmail-compromise-via-email
+https://blog.includesecurity.com/2021/07/customizing-semgrep-rules-for-flask-django/
+
+https://book.hacktricks.xyz/pentesting-web/file-upload
+https://pentest.ws/
