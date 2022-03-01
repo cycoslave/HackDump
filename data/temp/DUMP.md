@@ -405,3 +405,9 @@ https://infosecwriteups.com/introduction-to-tshark-b425fc86ef0d
 https://www.rapid7.com/resources/rop-exploit-explained/
 https://www.brighttalk.com/webcast/14421/500077?player-preauth=HvJGRWOH4y%2FS65OHJ5Oyd3nl90dhqsLdrbU3W1%2BL9zY%3D&utm_source=brighttalk-promoted&utm_medium=email&utm_term=Audience229602&utm_campaign=AUD-10527&utm_content=2021-08-7
 https://hacklido.com/blog/317-lets-build-an-api-to-hack-part-2-faking-it-before-breaking-it
+
+
+
+
+
+https://www.expireddomains.net/ - domains you can buy to do neftarious things.
